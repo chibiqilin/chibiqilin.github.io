@@ -1,11 +1,11 @@
-title: Greg Surma - Portfolio
-author: Greg (Grzegorz) Surma
-email: grzegorz.surma@icloud.com
-description: Greg (Grzegorz) Surma - Computer Vision, iOS, AI, Machine Learning, Software Engineering, Swit, Python, Objective-C, Deep Learning, Self-Driving Cars, Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs)
-url: "https://gsurma.github.io"
-twitter_username: gsurma
-github_username:  gsurma
-google_analytics: UA-110543961-1
+title: Andrew Vu - Portfolio
+author: Andrew Vu
+email: avvu@protonmail.com
+description: Andrew Vu - AI, Machine Learning, Software Engineering, Java, Python, C/C++
+url: "https://chibiqilin.github.io"
+twitter_username: chibiqilin
+github_username:  chibiqilin
+google_analytics: UA-180903016-1
 
 theme: jekyll-theme-minimal
 plugins:

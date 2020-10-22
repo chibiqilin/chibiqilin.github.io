@@ -1,34 +1,34 @@
 User-agent: Googlebot
-Disallow: 
+Disallow:
 User-agent: googlebot-image
-Disallow: 
+Disallow:
 User-agent: googlebot-mobile
-Disallow: 
+Disallow:
 User-agent: MSNBot
-Disallow: 
+Disallow:
 User-agent: Teoma
-Disallow: 
+Disallow:
 User-agent: Gigabot
-Disallow: 
+Disallow:
 User-agent: Robozilla
-Disallow: 
+Disallow:
 User-agent: Nutch
-Disallow: 
+Disallow:
 User-agent: ia_archiver
-Disallow: 
+Disallow:
 User-agent: baiduspider
-Disallow: 
+Disallow:
 User-agent: naverbot
-Disallow: 
+Disallow:
 User-agent: yeti
-Disallow: 
+Disallow:
 User-agent: yahoo-mmcrawler
-Disallow: 
+Disallow:
 User-agent: psbot
-Disallow: 
+Disallow:
 User-agent: yahoo-blogs/v3.9
-Disallow: 
+Disallow:
 User-agent: *
-Disallow: 
+Disallow:
 Disallow: /cgi-bin/
-Sitemap: https://gsurma.github.io/sitemap.xml
+Sitemap: https://chibiqilin.github.io/sitemap.xml
